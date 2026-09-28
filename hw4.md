@@ -14,12 +14,12 @@ ls : list files and directories
 
 [more ls command](https://linuxcommand.org/lc3_lts0030.php)
 
-# long format
+### long format
 file permissions - owner - group - size(in bytes) - modification time - file name
 
-# tip: autocompletion
+### tip: autocompletion
 Press "tab" key
-# tip : past commands
+### tip : past commands
 Press "up arrow" key
 
 clear : terminal clear(literally)
